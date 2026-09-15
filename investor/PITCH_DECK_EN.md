@@ -1,6 +1,6 @@
 # Pitch Deck EN — 15 slides (outline)
 
-> ⚠️ **DRAFT outline** — written by Claude based on known project facts, not previously generated content. This is a structure to fill in, not a finished deck — replace bracketed placeholders and verify every claim.
+> ⚠️ **DRAFT outline** — written by Claude based on known project facts, not previously generated content. A real 8-slide PL version now exists in `PITCH_DECK_PL.md` (user-provided, market figures need verification) — this EN outline should be reconciled with it rather than developed separately. This is a structure to fill in, not a finished deck — replace bracketed placeholders and verify every claim.
 
 1. **Cover** — Strażnik Ciszy: noise monitoring for schools. [logo, tagline, contact]
 2. **The Problem** — Schools have no objective, continuous way to monitor and act on classroom noise levels.

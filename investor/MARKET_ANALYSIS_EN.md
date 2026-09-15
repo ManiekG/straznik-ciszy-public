@@ -18,6 +18,8 @@
 
 Sources to use for real numbers: GUS (Polish schools count), Eurostat (EU schools count), and comparable EdTech hardware pricing to estimate a per-unit revenue assumption.
 
+> A hard data block on noise/hearing/schools statistics (with source attributions that still need verification) is available in `DANE_RYNKOWE_HALAS_PL.md` — use it as a starting point, but verify every citation before including it here or in an investor deck.
+
 ## Competitive landscape
 
 Not researched in this conversation. Before presenting this externally, identify:
