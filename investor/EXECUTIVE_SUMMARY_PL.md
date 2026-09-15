@@ -25,8 +25,9 @@ Docelowi klienci to szkoły i przedszkola w Polsce, docelowo w całej UE — seg
 
 ## Trakcja i IP
 
+- **10 sprzedanych urządzeń do szkół/przedszkoli** — pierwsi realni, płacący klienci z grupy docelowej (potwierdzone przez założyciela 2026-09-15).
 - Zarejestrowana domena `cotakglosno.pl`.
-- Zgłoszony wzór przemysłowy w Urzędzie Patentowym RP (UPRP) — chroni wygląd urządzenia.
+- Zgłoszony **wzór użytkowy** w Urzędzie Patentowym RP (UPRP), nr 1439233 — chroni rozwiązanie techniczne/funkcjonalne (bliżej patentu niż wzoru przemysłowego; poprzednia wersja tego dokumentu błędnie pisała "wzór przemysłowy").
 - Istnieje działający sprzęt i firmware (ESP32 + MQTT), zgodnie z potwierdzeniem twórcy ("hardware i sygnalizacja już działają").
 
 ## Czego szukamy

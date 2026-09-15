@@ -25,8 +25,9 @@ Target customers are schools and pre-schools in Poland and, longer-term, the bro
 
 ## Traction & IP
 
+- **10 units sold to schools/pre-schools** — first real, paying customers in the target segment (confirmed by the founder, 2026-09-15).
 - Domain `cotakglosno.pl` registered.
-- Industrial design (wzór przemysłowy) filed with the Polish Patent Office (UPRP) — protects the device's appearance.
+- **Utility model** (wzór użytkowy) filed with the Polish Patent Office (UPRP), doc. ID 1439233 — protects the technical/functional solution, closer to a patent than a design registration (an earlier version of this document incorrectly said "industrial design").
 - Working hardware and firmware exist (ESP32 + MQTT), per the founder's own confirmation ("hardware and signaling already work").
 
 ## The Ask

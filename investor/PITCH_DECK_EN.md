@@ -11,7 +11,7 @@
 7. **Demo / Screenshots** — [insert real photos/screenshots of the working device and dashboard]
 8. **Market** — Polish + EU schools and pre-schools (EdTech/GovTech). ≈344,000 classrooms/groups in Poland alone (GUS-sourced). See `MARKET_ANALYSIS_EN.md` for full methodology.
 9. **Business Model** — Hardware sale only, one-time transaction, no subscription (confirmed by founder 2026-09-15 — earlier drafts incorrectly assumed a SaaS component). Pricing known to founder, intentionally not disclosed publicly.
-10. **Traction** — Working prototype confirmed by founder; industrial design filed with UPRP; domain `cotakglosno.pl` secured. [add: number of pilot schools, if any]
+10. **Traction** — **10 units sold to schools/pre-schools** (confirmed by founder, 2026-09-15); working prototype; utility model filed with UPRP (doc. ID 1439233); domain `cotakglosno.pl` secured.
 11. **Go-to-Market** — [public tender channels, direct school outreach, EdTech distributor partnerships — to define]
 12. **Competition** — [not yet researched — see MARKET_ANALYSIS_EN.md]
 13. **IP & Moat** — Industrial design filed (UPRP); trade secrets under NDA; trademark and patent filing recommended. Full IP portfolio available on request under NDA.

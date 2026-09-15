@@ -48,6 +48,7 @@ Strażnik Ciszy — inteligentny system monitorowania hałasu. Urządzenie IoT +
 - presja na edukację włączającą
 - wzrost problemów ze słuchem
 - brak konkurencyjnych rozwiązań
+- **produkt już sprzedaje się realnym klientom**: 10 urządzeń sprzedanych do szkół/przedszkoli (potwierdzone przez założyciela, 2026-09-15) — to nie jest już etap czystej koncepcji
 
 ## Slajd 8 — Oferta: sprzedaż projektu
 
@@ -58,4 +59,4 @@ W cenie: kod źródłowy i firmware, zgłoszony wzór użytkowy UPRP (i przygoto
 *(Kwota przeniesiona z `../../straznik-ciszy-private/investor/VALUATION_EN.md` — tam oznaczona jako niezweryfikowana metodologicznie. Przed rozmową z realnym kupcem warto ją podeprzeć wyceną, patrz uwagi w tamtym dokumencie.)*
 
 ---
-*Do rozbudowy: slajd tytułowy, demo/zrzuty ekranu, trakcja (dowody: zgłoszony wzór użytkowy UPRP, działający prototyp, platforma CoTakGłośno), zespół.*
+*Do rozbudowy: slajd tytułowy, demo/zrzuty ekranu, zespół. Trakcja (zgłoszony wzór użytkowy UPRP, działający prototyp, platforma CoTakGłośno, 10 sprzedanych urządzeń) już wpisana w slajd 7 — rozważ wydzielenie jej do osobnego slajdu przy pełnej rozbudowie decku.*
