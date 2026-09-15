@@ -9,8 +9,8 @@
 5. **How It Works** — Device → MQTT (EMQX) → InfluxDB → Grafana/dashboard → signage feedback loop. [diagram]
 6. **Product Tiers** — BASIC vs PRO signage, secretariat panel features. [feature comparison table]
 7. **Demo / Screenshots** — [insert real photos/screenshots of the working device and dashboard]
-8. **Market** — Polish + EU schools (EdTech/GovTech). See `MARKET_ANALYSIS_EN.md` for the (currently unresearched) sizing.
-9. **Business Model** — Hardware sale + SaaS subscription. [pricing to define]
+8. **Market** — Polish + EU schools and pre-schools (EdTech/GovTech). ≈344,000 classrooms/groups in Poland alone (GUS-sourced). See `MARKET_ANALYSIS_EN.md` for full methodology.
+9. **Business Model** — Hardware sale only, one-time transaction, no subscription (confirmed by founder 2026-09-15 — earlier drafts incorrectly assumed a SaaS component). Pricing known to founder, intentionally not disclosed publicly.
 10. **Traction** — Working prototype confirmed by founder; industrial design filed with UPRP; domain `cotakglosno.pl` secured. [add: number of pilot schools, if any]
 11. **Go-to-Market** — [public tender channels, direct school outreach, EdTech distributor partnerships — to define]
 12. **Competition** — [not yet researched — see MARKET_ANALYSIS_EN.md]

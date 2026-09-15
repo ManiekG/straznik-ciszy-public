@@ -1,6 +1,6 @@
 # Pitch deck dla inwestora (wersja profesjonalna) — PL
 
-> ⚠️ Treść dostarczona przez użytkownika z innej rozmowy — liczby rynkowe (20 tys. szkół, 200 tys. UE, 52 mln osób z niedosłuchem) wymagają weryfikacji źródeł przed pokazaniem inwestorowi, patrz `DANE_RYNKOWE_HALAS_PL.md`. To 8 slajdów, nie 15 jak sugerował wcześniejszy szkielet — potraktuj jako trzon do rozbudowy.
+> ⚠️ Treść dostarczona przez użytkownika z innej rozmowy. Slajd 2 (Rynek) zaktualizowany 2026-09-15 danymi GUS (metodologia: `MARKET_ANALYSIS_EN.md`) — stare liczby "20 tys. szkół / 200 tys. UE" były zaniżonym, nieźródłowanym szacunkiem. Liczba "52 mln osób z niedosłuchem" nadal wymaga weryfikacji źródeł, patrz `DANE_RYNKOWE_HALAS_PL.md`. Slajd 6 poprawiony — model biznesowy to wyłącznie sprzedaż urządzeń, **bez abonamentu** (potwierdzone przez założyciela 2026-09-15, wcześniejszy szkic błędnie zakładał SaaS). To 8 slajdów, nie 15 jak sugerował wcześniejszy szkielet — potraktuj jako trzon do rozbudowy.
 
 ## Slajd 1 — Problem
 
@@ -8,10 +8,13 @@ Hałas w szkołach jest jednym z największych, nierozwiązanych problemów eduk
 
 ## Slajd 2 — Rynek
 
-- 20 tys. szkół w Polsce
-- 200 tys. szkół w UE
-- 52 mln osób z niedosłuchem
+- **≈45 000 placówek** oświatowych w Polsce (23,1 tys. szkół + 21,9 tys. przedszkoli, GUS 2025/26)
+- **≈344 000 sal/oddziałów** w Polsce — produkt celuje w salę, nie w placówkę, więc to właściwa jednostka rynku (7-8x więcej niż licząc same placówki)
+- **≈4,2 mln sal** w UE — zgrubny szacunek proporcjonalny do populacji (Polska ≈8,1% UE), wymaga weryfikacji per kraj przed użyciem u inwestora
+- 52 mln osób z niedosłuchem w UE *(niezweryfikowane, patrz `DANE_RYNKOWE_HALAS_PL.md`)*
 - rosnący rynek edukacji włączającej
+
+*(pełna metodologia i źródła: `MARKET_ANALYSIS_EN.md`)*
 
 ## Slajd 3 — Produkt
 
@@ -35,9 +38,9 @@ Strażnik Ciszy — inteligentny system monitorowania hałasu. Urządzenie IoT +
 
 ## Slajd 6 — Model biznesowy
 
-- sprzedaż urządzeń
-- abonament za panel i analitykę
-- wdrożenia w szkołach i samorządach
+- **wyłącznie sprzedaż urządzeń** (jednorazowa transakcja, bez abonamentu — potwierdzone przez założyciela)
+- panel i analityka dołączone do urządzenia, nie sprzedawane osobno jako SaaS
+- wdrożenia w szkołach i samorządach (kanał: zamówienia publiczne / bezpośrednia sprzedaż)
 
 ## Slajd 7 — Dlaczego teraz?
 

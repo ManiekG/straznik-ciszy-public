@@ -17,11 +17,11 @@ Noise levels in school classrooms and common areas are difficult to monitor obje
 
 ## Market
 
-Target customers are primary and secondary schools in Poland and, longer-term, the broader EU — an EdTech/GovTech segment where procurement is often public-sector driven (see `MARKET_ANALYSIS_EN.md` for detail — currently a placeholder pending real market sizing).
+Target customers are schools and pre-schools in Poland and, longer-term, the broader EU — an EdTech/GovTech segment where procurement is often public-sector driven. The product targets individual classrooms/rooms, not one unit per institution: **≈45,000 institutions, but ≈344,000 classrooms/groups** in Poland (GUS, 2025/26) — full methodology and sources in `MARKET_ANALYSIS_EN.md`.
 
 ## Business Model
 
-Device sales (hardware) combined with a recurring SaaS component (dashboard, data retention, analytics) — see the original project notes' revenue model. *Actual pricing and unit economics still need to be filled in.*
+**Hardware sale only** — a one-time transaction, **no subscription/SaaS component** (confirmed by the founder 2026-09-15; an earlier draft incorrectly assumed a recurring revenue stream). The dashboard/panel and analytics ship as part of the device, not as a separate product. *Pricing and unit economics are known to the founder — intentionally not disclosed in this document at his request; the full unit-economics model exists in the private repo under NDA.*
 
 ## Traction & IP
 

@@ -17,11 +17,11 @@ Poziom hałasu w klasach szkolnych i częściach wspólnych jest trudny do obiek
 
 ## Rynek
 
-Docelowi klienci to szkoły podstawowe i średnie w Polsce, docelowo w całej UE — segment EdTech/GovTech, gdzie zakupy często odbywają się w trybie zamówień publicznych (szczegóły w `MARKET_ANALYSIS_EN.md` — obecnie szkic wymagający realnych danych rynkowych).
+Docelowi klienci to szkoły i przedszkola w Polsce, docelowo w całej UE — segment EdTech/GovTech, gdzie zakupy często odbywają się w trybie zamówień publicznych. Produkt celuje w salę/oddział, nie w placówkę jako całość: **≈45 000 placówek, ale ≈344 000 sal** w Polsce (GUS, 2025/26) — pełna metodologia i źródła w `MARKET_ANALYSIS_EN.md`.
 
 ## Model biznesowy
 
-Sprzedaż urządzeń (hardware) połączona z powtarzalnym komponentem SaaS (dashboard, przechowywanie danych, analityka) — zgodnie z pierwotnymi założeniami projektu. *Konkretny cennik i jednostkowa rentowność wymagają jeszcze uzupełnienia.*
+**Wyłącznie sprzedaż urządzeń (hardware)** — jednorazowa transakcja, **bez abonamentu/SaaS** (potwierdzone przez założyciela 2026-09-15; wcześniejszy szkic błędnie zakładał powtarzalny komponent subskrypcyjny). Panel i analityka są częścią urządzenia, nie osobnym produktem. *Cennik i jednostkowa rentowność znane założycielowi — nieujawniane w tym dokumencie na jego wyraźną prośbę; pełny model jednostkowy dostępny w repo prywatnym pod NDA.*
 
 ## Trakcja i IP
 
