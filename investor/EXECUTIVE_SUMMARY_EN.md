@@ -31,7 +31,9 @@ Device sales (hardware) combined with a recurring SaaS component (dashboard, dat
 
 ## The Ask
 
-*To be defined — amount raising, use of funds, and target milestones are not yet specified in the source material for this draft.*
+Selling the entire project (source code, firmware, IP, platform, domain) for **PLN 4,000,000** — this is a full exit/sale offer, not an equity investment round. See `PITCH_DECK_PL.md`, slide 8, for details.
+
+*Figure carried over from `../../straznik-ciszy-private/investor/VALUATION_EN.md`, flagged there as methodologically unverified — a serious buyer will likely ask for justification.*
 
 ---
 *Contact: Mariusz Głowacki.*

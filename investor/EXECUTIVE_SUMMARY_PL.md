@@ -31,7 +31,9 @@ Sprzedaż urządzeń (hardware) połączona z powtarzalnym komponentem SaaS (das
 
 ## Czego szukamy
 
-*Do uzupełnienia — kwota, przeznaczenie środków i kamienie milowe nie zostały jeszcze określone w materiałach źródłowych do tego szkicu.*
+Sprzedaż całości projektu (kod, firmware, IP, platforma, domena) za **4 000 000 PLN** — nie poszukiwanie inwestycji/rundy finansowania, lecz wyjście (exit) właściciela z projektu. Szczegóły oferty: `PITCH_DECK_PL.md`, slajd 8.
+
+*Kwota przeniesiona z `../../straznik-ciszy-private/investor/VALUATION_EN.md`, gdzie jest oznaczona jako niezweryfikowana metodologicznie — potencjalny kupiec może o to zapytać.*
 
 ---
 *Kontakt: Mariusz Głowacki.*

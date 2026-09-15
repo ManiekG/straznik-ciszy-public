@@ -46,12 +46,13 @@ Strażnik Ciszy — inteligentny system monitorowania hałasu. Urządzenie IoT +
 - wzrost problemów ze słuchem
 - brak konkurencyjnych rozwiązań
 
-## Slajd 8 — Potrzeby inwestycyjne
+## Slajd 8 — Oferta: sprzedaż projektu
 
-- produkcja
-- rozwój algorytmów
-- ekspansja na UE
-- marketing i sprzedaż
+**Szukam nabywcy na całość projektu Strażnik Ciszy / CoTakGłośno za 4 000 000 PLN.**
+
+W cenie: kod źródłowy i firmware, zgłoszony wzór użytkowy UPRP (i przygotowywane zgłoszenie EUIPO), platforma CoTakGłośno, domena cotakglosno.pl, dokumentacja techniczna i patentowa, know-how.
+
+*(Kwota przeniesiona z `../../straznik-ciszy-private/investor/VALUATION_EN.md` — tam oznaczona jako niezweryfikowana metodologicznie. Przed rozmową z realnym kupcem warto ją podeprzeć wyceną, patrz uwagi w tamtym dokumencie.)*
 
 ---
-*Do rozbudowy: slajd tytułowy, demo/zrzuty ekranu, trakcja (dowody: zgłoszony wzór użytkowy UPRP, działający prototyp, platforma CoTakGłośno), zespół, konkretna kwota i cel finansowania (ask).*
+*Do rozbudowy: slajd tytułowy, demo/zrzuty ekranu, trakcja (dowody: zgłoszony wzór użytkowy UPRP, działający prototyp, platforma CoTakGłośno), zespół.*
